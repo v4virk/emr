@@ -1,4 +1,4 @@
-# Real-Time Healthcare Management \& Patient Monitoring Platform
+# Real-Time Healthcare Claims & Fraud Analytics Platform
 
 A cleaned Flask + React healthcare simulation app. It supports patient and doctor login flows, JSON-backed electronic medical records, bill uploads, claim filing, on-demand vitals generation, optional Kafka/Spark vitals streaming, and rule-based insurance adjudication.
 
